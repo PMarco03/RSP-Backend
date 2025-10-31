@@ -12,24 +12,24 @@
     {
       "Id": "Valvola 2",
       "Pin": 27,
-      "State": true,
-      "OverrideState": true,
+      "State": false,
+      "OverrideState": false,
       "TimeStart": "20:30",
       "Duration": 1
     },
     {
       "Id": "Valvola 3",
       "Pin": 22,
-      "State": true,
-      "OverrideState": true,
+      "State": false,
+      "OverrideState": false,
       "TimeStart": "20:30",
       "Duration": 30
     },
     {
       "Id": "Valvola 4",
       "Pin": 5,
-      "State": true,
-      "OverrideState": true,
+      "State": false,
+      "OverrideState": false,
       "TimeStart": "20:30",
       "Duration": 30
     }
